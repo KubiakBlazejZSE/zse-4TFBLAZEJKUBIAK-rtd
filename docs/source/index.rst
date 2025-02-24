@@ -101,7 +101,7 @@ Obraz
 ------
 
 
-.. image:: sciezka/do/obrazu.jpg
+.. image:: Tosiek.jpeg
 
    :alt: Alternatywny tekst dla obrazu
 
