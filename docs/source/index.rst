@@ -53,18 +53,12 @@ Nagłówek poziomu 4
 
 
 
-Odnośnik lokalny
-
-----------------
-
-Zobacz więcej w :ref:`inny_rozdział`.
-
 
 Odnośnik zewnętrzny
 
 -------------------
 
-Odwiedź naszą stronę: `GitHub <https://github.com>`.
+Odwiedź naszą stronę: `<https://github.com>`.
 
 
 Listy
@@ -124,9 +118,13 @@ Tabela
    :widths: 10 20 30
 
 
-   ========  =================  =================
-   Nagłówek  Nagłówek 2       Nagłówek 3
-   ========  =================  =================
-   Wiersz 1  Zawartość 1       Zawartość 2
-   Wiersz 2  Zawartość 3       Zawartość 4
-   ========  =================  =================
+
++----+-----------+--------------------------+
+| ID | Nazwa     | Opis                     |
++----+-----------+--------------------------+
+| 1  | Element A | To jest opis elementu A. |
++----+-----------+--------------------------+
+| 2  | Element B | To jest opis elementu B. |
++----+-----------+--------------------------+
+| 3  | Element C | To jest opis elementu C. |
++----+-----------+--------------------------+
