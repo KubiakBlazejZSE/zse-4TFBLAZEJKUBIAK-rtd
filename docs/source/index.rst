@@ -1,53 +1,40 @@
-rst
-
-=========================
 
 Tytuł dokumentu
-
-=========================
+================
 
 
 Nagłówek poziomu 1
-
 =================
 
 
 Akapit tekstowy (treść)
-
 ------------------------
-
-To jest przykładowy akapit tekstowy, który zawiera informacje na temat dokumentu. Możesz tutaj umieścić dowolne treści, które są istotne dla Twojego projektu.
+Przykładowy akapit
 
 
 Nagłówek poziomu 2
-
 -----------------
 
 
 Akapit informacyjny
-
 -------------------
 
 .. note::
-
    To jest notatka, która zawiera dodatkowe informacje lub wskazówki.
 
 
 .. tip::
-
    To jest wskazówka, która może pomóc użytkownikom w lepszym zrozumieniu tematu.
 
 
 Nagłówek poziomu 3
-
------------------
+~~~~~~~~~~~~~~~~~~
 
 
 Fragment kodu (liniowy)
-
 ------------------------
 
-Przykład kodu w jednej linii: `print("Hello, World!")`
+Przykład kodu w jednej linii: ``print("Hello, World!")``
 
 
 Fragment kodu (blokowy)
@@ -64,7 +51,6 @@ Fragment kodu (blokowy)
 
 Nagłówek poziomu 4
 
------------------
 
 
 Odnośnik lokalny
