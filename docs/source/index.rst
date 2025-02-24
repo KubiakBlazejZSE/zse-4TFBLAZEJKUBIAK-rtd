@@ -102,9 +102,7 @@ Obraz
 
 
 .. image:: Tosiek.jpeg
-
    :alt: Alternatywny tekst dla obrazu
-
    :caption: Podpis pod obrazem.
 
 
