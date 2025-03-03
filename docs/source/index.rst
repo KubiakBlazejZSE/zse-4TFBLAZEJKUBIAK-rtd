@@ -101,7 +101,7 @@ Obraz
 ------
 
 
-.. image:: /.Tosiek.jpeg
+.. image:: Tosiek.jpeg
    :alt: Alternatywny tekst dla obrazu
    :caption: Podpis pod obrazem.
 
